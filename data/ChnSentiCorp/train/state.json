@@ -1,14 +1,13 @@
 {
   "_data_files": [
     {
-      "filename": "dataset.arrow"
+      "filename": "data-00000-of-00001.arrow"
     }
   ],
-  "_fingerprint": "e0ddea251af44ccf",
+  "_fingerprint": "91ce25e263d45981",
   "_format_columns": null,
   "_format_kwargs": {},
   "_format_type": null,
-  "_indexes": {},
   "_output_all_columns": false,
   "_split": "train"
 }
